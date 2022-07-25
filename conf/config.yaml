@@ -1,0 +1,8 @@
+GENERAL:
+  INFO_TITLE: Reminder!
+  INFO_MSG: Time to record the day!
+  WARN_TITLE: Error
+  WARN_MSG: There is no Success Factors URL in the the conf/config.yaml.
+
+SUCCESS_FACTORS:
+  URL:
