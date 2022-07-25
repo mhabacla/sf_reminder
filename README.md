@@ -22,7 +22,7 @@ You need at least Python 3.6.
 6. Browse the Python path used (this should inside the virtual environment you created). In my case the path it was `C:\projects\python\sf_reminder\venv\Scripts\python.exe`.
 7. On this same window add the name of the script (success_factors_reminder.py) to the 'Add arguments (optional)' input.
 8. Add the directory path to the 'Start in (optional)' input. Go to the folder where your Python script is located (where you cloned the repo) and copy the path.
-9. **Whitout** closing the window go to Triggers > New
+9. **Without** closing the window go to Triggers > New
 10. Choose the repetition that you want.
 11. Click OK.
 
